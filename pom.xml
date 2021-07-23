@@ -35,9 +35,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/esastack/esa-commons</url>
-        <connection>scm:git:git://github.com/esastack/esa-commons.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/esastack/esa-commons.git</developerConnection>
+        <url>https://github.com/esastack/esa-commons-build</url>
+        <connection>scm:git:git://github.com/esastack/esa-commons-build.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/esastack/esa-commons-build.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
